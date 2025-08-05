@@ -22,6 +22,11 @@ This Power BI project analyzes and segments customers using RFM (Recency, Freque
 - Interactive segment filtering
 
 ---
+## 📷 Snapshots
+
+![Page 1](page1.png)
+![Page 2](page2.png)
+
 
 ## 🧮 RFM Methodology
 
