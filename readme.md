@@ -23,8 +23,9 @@ This Power BI project analyzes and segments customers using RFM (Recency, Freque
 
 ---
 ## 📷 Snapshots
-
+#### Page 1:
 ![Page 1](page1.png)
+#### Page 2:
 ![Page 2](page2.png)
 
 
